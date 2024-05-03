@@ -9,7 +9,7 @@ The Poster Tool (Putty Knife) mod is a Steam Workshop mod for the game Barotraum
 
 ## Installation
 1. Make sure you have Barotrauma installed on your Steam client.
-2. Subscribe to the [Poster Tool (Putty Knife)](https://steamcommunity.com/sharedfiles/filedetails/?id=MOD_ID_HERE) mod on the Barotrauma Steam Workshop page.
+2. Subscribe to the [Poster Tool (Putty Knife)](https://steamcommunity.com/sharedfiles/filedetails/?id=3238410294) mod on the Barotrauma Steam Workshop page.
 3. Launch Barotrauma and enable the mod in the mod manager.
 4. Start a new game or load an existing one to enjoy the mod.
 
