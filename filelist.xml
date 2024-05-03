@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Putty Knife (Poster Tool)" modversion="1.0.0" corepackage="False" steamworkshopid="3238410294" gameversion="1.4.6.0">
+  <Item file="%ModDir%/putty_knife.xml" />
+  <Other file="%ModDir%/images/poster_tool.png" />
+  <Text file="%ModDir%/English.xml" />
+</contentpackage>
